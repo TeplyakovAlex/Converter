@@ -3,7 +3,7 @@ package app;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Converter for base converting");
+        System.out.println("Converter for base converting version 1.0");
 
         double miles = 15;
         double kms = 26;
